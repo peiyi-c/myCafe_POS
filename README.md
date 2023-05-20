@@ -2,7 +2,7 @@
 
 ### 🔎 Introduction 
 This is a simulation POS for a Café  list called meDaily.    
-☕ [Click here to try it out!](https://peiyi-c.github.io/myCafe_POS/) 
+☕ [Click here to try it out!](https://new-horses.surge.sh/)
 
 ### 🔎 Function overview
 * click add to add a coffee item into cart
